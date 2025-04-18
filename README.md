@@ -4,6 +4,7 @@ I am a junior dealer working in fixed income (govvies). I graduated as an applie
 
 - 🔭 Currently working on introductory probability and asset pricing projects
 - 📚 Currently reading "Predator's Ball" by Connie Bruck and "de Camino" by Anya Niewierra
+- ⌨ Coding in Python 🐍
 - ⚡ Just a bit of a nerd that likes stochastic processes
 - ☕ Also a nerd about coffee
 
